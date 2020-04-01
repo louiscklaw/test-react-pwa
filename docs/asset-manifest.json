@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.4e6e152f.chunk.js",
-    "main.js.map": "/static/js/main.4e6e152f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.467e43d1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.467e43d1.js.map",
-    "static/js/2.ddc2d1ae.chunk.js": "/static/js/2.ddc2d1ae.chunk.js",
-    "static/js/2.ddc2d1ae.chunk.js.map": "/static/js/2.ddc2d1ae.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3a13a1dbced00e90f456a74c2af83c10.js": "/precache-manifest.3a13a1dbced00e90f456a74c2af83c10.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.ddc2d1ae.chunk.js.LICENSE.txt": "/static/js/2.ddc2d1ae.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "https://louiscklaw.github.io/test-react-pwa/static/css/main.5f361e03.chunk.css",
+    "main.js": "https://louiscklaw.github.io/test-react-pwa/static/js/main.dbf6db72.chunk.js",
+    "main.js.map": "https://louiscklaw.github.io/test-react-pwa/static/js/main.dbf6db72.chunk.js.map",
+    "runtime-main.js": "https://louiscklaw.github.io/test-react-pwa/static/js/runtime-main.4b1b87ae.js",
+    "runtime-main.js.map": "https://louiscklaw.github.io/test-react-pwa/static/js/runtime-main.4b1b87ae.js.map",
+    "static/js/2.ddc2d1ae.chunk.js": "https://louiscklaw.github.io/test-react-pwa/static/js/2.ddc2d1ae.chunk.js",
+    "static/js/2.ddc2d1ae.chunk.js.map": "https://louiscklaw.github.io/test-react-pwa/static/js/2.ddc2d1ae.chunk.js.map",
+    "index.html": "https://louiscklaw.github.io/test-react-pwa/index.html",
+    "precache-manifest.a4eea5625df88b87dd422d935b9a12d7.js": "https://louiscklaw.github.io/test-react-pwa/precache-manifest.a4eea5625df88b87dd422d935b9a12d7.js",
+    "service-worker.js": "https://louiscklaw.github.io/test-react-pwa/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "https://louiscklaw.github.io/test-react-pwa/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ddc2d1ae.chunk.js.LICENSE.txt": "https://louiscklaw.github.io/test-react-pwa/static/js/2.ddc2d1ae.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://louiscklaw.github.io/test-react-pwa/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.467e43d1.js",
+    "static/js/runtime-main.4b1b87ae.js",
     "static/js/2.ddc2d1ae.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4e6e152f.chunk.js"
+    "static/js/main.dbf6db72.chunk.js"
   ]
 }
